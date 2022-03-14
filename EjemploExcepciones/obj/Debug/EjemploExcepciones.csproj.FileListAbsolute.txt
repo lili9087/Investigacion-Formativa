@@ -1,0 +1,10 @@
+C:\Users\th\Desktop\PERIODO NOVIEMBRE 2021 MARZO 2022\2. PROGRAMACIÓN II\PARCIAL 2\COMPONENTE PRÁCTICO\VisualStudio\EjemploExcepciones\EjemploExcepciones\bin\Debug\EjemploExcepciones.exe.config
+C:\Users\th\Desktop\PERIODO NOVIEMBRE 2021 MARZO 2022\2. PROGRAMACIÓN II\PARCIAL 2\COMPONENTE PRÁCTICO\VisualStudio\EjemploExcepciones\EjemploExcepciones\bin\Debug\EjemploExcepciones.exe
+C:\Users\th\Desktop\PERIODO NOVIEMBRE 2021 MARZO 2022\2. PROGRAMACIÓN II\PARCIAL 2\COMPONENTE PRÁCTICO\VisualStudio\EjemploExcepciones\EjemploExcepciones\bin\Debug\EjemploExcepciones.pdb
+C:\Users\th\Desktop\PERIODO NOVIEMBRE 2021 MARZO 2022\2. PROGRAMACIÓN II\PARCIAL 2\COMPONENTE PRÁCTICO\VisualStudio\EjemploExcepciones\EjemploExcepciones\obj\Debug\EjemploExcepciones.csprojAssemblyReference.cache
+C:\Users\th\Desktop\PERIODO NOVIEMBRE 2021 MARZO 2022\2. PROGRAMACIÓN II\PARCIAL 2\COMPONENTE PRÁCTICO\VisualStudio\EjemploExcepciones\EjemploExcepciones\obj\Debug\EjemploExcepciones.Form1.resources
+C:\Users\th\Desktop\PERIODO NOVIEMBRE 2021 MARZO 2022\2. PROGRAMACIÓN II\PARCIAL 2\COMPONENTE PRÁCTICO\VisualStudio\EjemploExcepciones\EjemploExcepciones\obj\Debug\EjemploExcepciones.Properties.Resources.resources
+C:\Users\th\Desktop\PERIODO NOVIEMBRE 2021 MARZO 2022\2. PROGRAMACIÓN II\PARCIAL 2\COMPONENTE PRÁCTICO\VisualStudio\EjemploExcepciones\EjemploExcepciones\obj\Debug\EjemploExcepciones.csproj.GenerateResource.cache
+C:\Users\th\Desktop\PERIODO NOVIEMBRE 2021 MARZO 2022\2. PROGRAMACIÓN II\PARCIAL 2\COMPONENTE PRÁCTICO\VisualStudio\EjemploExcepciones\EjemploExcepciones\obj\Debug\EjemploExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\th\Desktop\PERIODO NOVIEMBRE 2021 MARZO 2022\2. PROGRAMACIÓN II\PARCIAL 2\COMPONENTE PRÁCTICO\VisualStudio\EjemploExcepciones\EjemploExcepciones\obj\Debug\EjemploExcepciones.exe
+C:\Users\th\Desktop\PERIODO NOVIEMBRE 2021 MARZO 2022\2. PROGRAMACIÓN II\PARCIAL 2\COMPONENTE PRÁCTICO\VisualStudio\EjemploExcepciones\EjemploExcepciones\obj\Debug\EjemploExcepciones.pdb
